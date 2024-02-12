@@ -122,132 +122,196 @@ public class KiralynoGui extends javax.swing.JFrame {
 
         jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Sakktábla", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Arial", 0, 14))); // NOI18N
 
+        jLabel60.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel60.setText("jLabel3");
 
+        jLabel25.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel25.setText("jLabel8");
 
+        jLabel20.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel20.setText("jLabel3");
 
+        jLabel38.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel38.setText("jLabel5");
 
+        jLabel40.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel40.setText("jLabel7");
 
+        jLabel24.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel24.setText("jLabel7");
 
+        jLabel56.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel56.setText("jLabel7");
 
+        jLabel43.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel43.setText("jLabel2");
 
+        jLabel16.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel16.setText("jLabel7");
 
+        jLabel17.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel17.setText("jLabel8");
 
+        jLabel2.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel2.setText("jLabel2");
 
+        jLabel51.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel51.setText("jLabel2");
 
+        jLabel12.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel12.setText("jLabel3");
 
+        jLabel30.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel30.setText("jLabel5");
 
+        jLabel3.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel3.setText("jLabel3");
 
+        jLabel15.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel15.setText("jLabel6");
 
+        jLabel48.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel48.setText("jLabel7");
 
+        jLabel23.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel23.setText("jLabel6");
 
+        jLabel64.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel64.setText("jLabel7");
 
+        jLabel26.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel26.setText("jLabel1");
 
+        jLabel41.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel41.setText("jLabel8");
 
+        jLabel8.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel8.setText("jLabel8");
 
+        jLabel58.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel58.setText("jLabel1");
 
+        jLabel54.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel54.setText("jLabel5");
 
+        jLabel10.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel10.setText("jLabel1");
 
+        jLabel35.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel35.setText("jLabel2");
 
+        jLabel11.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel11.setText("jLabel2");
 
+        jLabel34.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel34.setText("jLabel1");
 
+        jLabel50.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel50.setText("jLabel1");
 
+        jLabel61.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel61.setText("jLabel4");
 
+        jLabel28.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel28.setText("jLabel3");
 
+        jLabel47.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel47.setText("jLabel6");
 
+        jLabel6.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel6.setText("jLabel6");
 
+        jLabel62.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel62.setText("jLabel5");
 
+        jLabel21.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel21.setText("jLabel4");
 
+        jLabel14.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel14.setText("jLabel5");
 
+        jLabel39.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel39.setText("jLabel6");
 
+        jLabel44.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel44.setText("jLabel3");
 
+        jLabel22.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel22.setText("jLabel5");
 
+        jLabel5.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel5.setText("jLabel5");
 
+        jLabel33.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel33.setText("jLabel8");
 
+        jLabel52.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel52.setText("jLabel3");
 
+        jLabel27.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel27.setText("jLabel2");
 
+        jLabel19.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel19.setText("jLabel2");
 
+        jLabel32.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel32.setText("jLabel7");
 
+        jLabel55.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel55.setText("jLabel6");
 
+        jLabel31.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel31.setText("jLabel6");
 
+        jLabel18.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel18.setText("jLabel1");
 
+        jLabel57.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel57.setText("jLabel8");
 
+        jLabel13.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel13.setText("jLabel4");
 
+        jLabel46.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel46.setText("jLabel5");
 
+        jLabel7.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel7.setText("jLabel7");
 
+        jLabel29.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel29.setText("jLabel4");
 
+        jLabel45.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel45.setText("jLabel4");
 
+        jLabel63.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel63.setText("jLabel6");
 
+        jLabel36.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel36.setText("jLabel3");
 
+        jLabel42.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel42.setText("jLabel1");
 
+        jLabel49.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel49.setText("jLabel8");
 
+        jLabel37.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel37.setText("jLabel4");
 
+        jLabel9.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel9.setText("jLabel8");
 
+        jLabel1.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel1.setText("jLabel1");
 
+        jLabel53.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel53.setText("jLabel4");
 
+        jLabel59.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel59.setText("jLabel2");
 
+        jLabel4.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jLabel4.setText("jLabel4");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
