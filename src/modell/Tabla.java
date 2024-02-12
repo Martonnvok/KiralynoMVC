@@ -40,30 +40,48 @@ public class Tabla {
     }
 
     public boolean UresOszlop(int oszlop) {
-
+        for (int i = 0; i < 8; i++) {
+            if (T[i][oszlop] == 'K') {
+                return false;
+            }
+        }
         return true;
     }
 
     public boolean UresSor(int sor) {
-
+        for (int i = 0; i < 8; i++) {
+            if (T[sor][i] == 'K') {
+                return false;
+            }
+        }
         return true;
     }
 
-    public int getUresOszlopokSzama() {
-
-        return 0;
+     public int getUresOszlopokSzama() {
+        int db = 8;
+        for (int i = 0; i < 8; i++) {
+            if (UresOszlop(i)) {
+                db--;
+            }
+        }
+        return db;
     }
 
     public int getUresSorokSzama() {
-
-        return 0;
+        int db = 8;
+        for (int i = 0; i < 8; i++) {
+            if (UresSor(i)) {
+                db--;
+            }
+        }
+        return db;
     }
 
     public void megjelenitOsz() {
-
+        System.out.println("Ures oszlopok szama: "+getUresOszlopokSzama());
     }
 
     public void megjelenitSor() {
-
+        System.out.println("Ures sorok szama: "+getUresSorokSzama());
     }
 }
