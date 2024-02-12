@@ -13,14 +13,14 @@ public class KiralynoCmd {
     }
 
     public void megjelenitSakkTabla() {
-        model.Megjelenit();
+         model.Megjelenit();
     }
 
     public void megjelenitUresOszlopokSzama() {
-        model.megjelenitOsz();
+
     }
 
     public void megjelenitUresSorokSzama() {
-        model.megjelenitSor();
+
     }
 }

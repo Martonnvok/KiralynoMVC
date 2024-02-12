@@ -3,11 +3,12 @@ package modell;
 import java.util.Random;
 
 public class Tabla {
+
     private char[][] T;
     private char UresCella;
 
     public Tabla(char uresCella) {
-         this.T = new char[8][8];
+        this.T = new char[8][8];
         this.UresCella = uresCella;
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 8; j++) {
@@ -26,11 +27,20 @@ public class Tabla {
     }
 
     public void Elhelyez(int n) {
-
+        Random random = new Random();
+        for (int i = 0; i < n; i++) {
+            int x = random.nextInt(8);
+            int y = random.nextInt(8);
+            if (T[x][y] == UresCella) {
+                T[x][y] = 'K';
+            } else {
+                i--;
+            }
+        }
     }
 
     public boolean UresOszlop(int oszlop) {
-        
+
         return true;
     }
 
@@ -46,7 +56,7 @@ public class Tabla {
 
     public int getUresSorokSzama() {
 
-         return 0;
+        return 0;
     }
 
     public void megjelenitOsz() {
