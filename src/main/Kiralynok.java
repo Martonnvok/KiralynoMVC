@@ -14,6 +14,8 @@ public class Kiralynok {
     private static void kiir() {
         KiralynoCmd megjelenitCmd = new KiralynoCmd();
         megjelenitCmd.megjelenitSakkTabla();
+        megjelenitCmd.megjelenitUresOszlopokSzama();
+        megjelenitCmd.megjelenitUresSorokSzama();
     }
     
 }

@@ -17,10 +17,11 @@ public class KiralynoCmd {
     }
 
     public void megjelenitUresOszlopokSzama() {
-
+        model.megjelenitOsz();
     }
 
     public void megjelenitUresSorokSzama() {
-
+        model.megjelenitSor();
     }
+
 }
